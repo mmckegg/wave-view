@@ -1,0 +1,27 @@
+{
+  "name": "wave-view",
+  "version": "0.0.0",
+  "description": "SVG based PCM waveform renderer for the browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mmckegg/wave-view.git"
+  },
+  "keywords": [
+    "pcm",
+    "web audio",
+    "svg",
+    "canvas",
+    "wave"
+  ],
+  "author": "Matt McKegg",
+  "license": "MIT",
+  "dependencies": {
+    "hyperscript": "~1.1.0",
+    "xtend": "~2.0.3",
+    "ever": "0.0.3"
+  }
+}
